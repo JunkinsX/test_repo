@@ -8,7 +8,7 @@ function App() {
       
       <main className="content">
         <h1 className="animated-text">
-          pipeline test 2
+          pipeline 
         </h1>
         
         <div className="status-badge">
