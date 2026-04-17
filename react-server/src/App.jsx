@@ -8,7 +8,7 @@ function App() {
       
       <main className="content">
         <h1 className="animated-text">
-          pipeline trigger2 hello test
+          pipeline test
         </h1>
         
         <div className="status-badge">
