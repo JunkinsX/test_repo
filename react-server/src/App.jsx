@@ -8,12 +8,12 @@ function App() {
       
       <main className="content">
         <h1 className="animated-text">
-          676776767676
+          fsgdhbkgjlfakjds
         </h1>
         
         <div className="status-badge">
           <span className="dot"></span>
-          System Operational
+          kdlafdsghbsjkdfnwkfadsvbkdj
         </div>
       </main>
     </div>
