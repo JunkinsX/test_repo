@@ -8,7 +8,7 @@ function App() {
       
       <main className="content">
         <h1 className="animated-text">
-          this react server is working
+          pipeline trigger1
         </h1>
         
         <div className="status-badge">
